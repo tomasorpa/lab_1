@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+    
+}
+main > *{
+    display: block;
+    margin: 15px auto ;
+    width:700px ;
+}
+h1{
+    font-size: 45px;
+    
+}
+h2{
+
+}
+h1,h2{
+    text-align: center;
+    color: brown ;
+    font-family: Impact, sans-serif;
+}
+
+
+img{
+    width: 250px;
+
+}
+.bigger{
+    font-size: 20px;
+}
+.smaller{
+    font-size: smaller;
+}
